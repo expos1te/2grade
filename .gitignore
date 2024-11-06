@@ -1,0 +1,5 @@
+config.py
+hr-bot.json
+/venv
+/.idea
+/__pycache__
